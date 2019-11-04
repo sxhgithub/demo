@@ -1,0 +1,14 @@
+{
+    "name": "xinghuasun/demo",
+    "description": "this is a project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sunxinghua",
+            "email": "136506125@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
